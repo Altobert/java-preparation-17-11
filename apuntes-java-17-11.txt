@@ -91,6 +91,37 @@ Capitulos del libro (15)
 	El ultimo objetivo del libro es hacerme
 		un programador de calidad, 
 		por supuesto tambien aprobar mi examen.
+		
+-------------------------------------
+
+	Culquier duda o consulta, este sitio es utilicegit remote add origin https://github.com/Altobert/java-preparation-17-11.git
+	coderanch.com
+
+-----------
+
+	Antes de tomar el examen, recordad entrar a www.selikoff.net/ocp17
+		Lo anterior por si existen actualizaciones.
+		
+-----------
+	
+	www.wiley.com/go/Sybextestprep
+
+-----------
+
+	Como estudiar, 
+		Construir un plan de estudios ajustado a mis horarios.
+		Misntras mas consistente seas en tu estudio, 
+		estaras mejor perpadado para dar el examen.
+		Aunque sea un poquito a la hora de almuerzom, pero 
+		todos los dias.
+
+-----------
+	Preguntarse por que lo estoy comprendiendo mal
+	Estudiar esas areas aun mas. 
+	
+
+	
+
 
 
 	
