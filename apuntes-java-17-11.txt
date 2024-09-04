@@ -1,0 +1,98 @@
+
+importante certificacion java
+
+Enfocarse en lo importante que estan preguntando
+
+Asumir que ciertas porciones de codigo ya se encuentran
+	imports
+	get y set
+
+Importante : una variable marcada con final, no se puede reasignar
+
+	oddities:rarezas
+
+Rarezas: Pueden permitir obtener altos resultados en mi examen.
+		 Tener cuidado y en lo posible contestar bien.
+		 
+	preguntas con extra informacion
+		Ejemplo: XmlParseExeption. Si conoces o no XMl, pero la preguntando
+		trata acerca de exepciones.
+	Preguntas con preguntas embedidas
+		Contestar bien dos subpreguntas antes de contestar
+		la pregunta principal.
+		Son respuestas no relacionadas, muchas veces.
+	Preguntas con Apis no familiares
+	Preguntas realizadas con conceptos errados.
+		Por ejemplo, que una interfaz herede de una clase, 
+		O que utilice la palabra reservada struct, es posible
+		que aparezca en un examen.	
+	Preguntas que realmente estan fueras de contexto.
+		Debes hacer tu mejor esfuerzo por contestarlas.
+	
+---------
+
+Para quien es este libro,
+	Para quienes deseen aprobar los examenes. Es entendible
+	y de claras explicaciones.
+
+---------
+
+Organizacion del Libro.
+	
+	Son 15 capitulos y uno va construyendo el siguiente:
+	Tambien algunos capitulos cumplen mutipoes objetivos, para
+	recordar los anteriores.
+
+----------
+
+Capitulos del libro (15)
+	Cap 1
+		Construcciones basicas
+		Bloques, tipos de datos.
+	Cap 2
+		Operadores
+	Cap 3
+		Haciendo desiciones
+	Cap 4
+		Api principales
+	Cap 5
+		Metodos, construcciones basicas
+		Como diseñar y escribir metodos
+	Cap 6
+		Diseño de clases
+	Cap 7
+		Dentro o detras de las clases
+		(interfaces, enums, sealed clases, records, nested clases)
+	Cap 8
+		Lambdas e interfaces funcionales
+	Cap 9
+		Collectiones y genericos
+	Cap 10
+		Streams pipelines y Optional Class.
+		Lea el capito mas de una vez si quiere tener 
+		los conocimientos.
+	Cap 11
+		Exepciones y localizacion
+	Cap 12
+		Modulos y compilacion de modulos
+	Cap 13
+		concurrencia y administracion segura de hilos
+	Cap 14
+		IO administracion de archivos.		
+	Cap 15
+		Simple. JDBC
+		
+-------------------------------------
+	Contestar los examenes al final de capitulo.
+		Si mi porcentaje de correctas es mejor al 80%, volver
+		a revisar los topicos. Comparar con apendix
+
+-------------------------------------
+	El ultimo objetivo del libro es hacerme
+		un programador de calidad, 
+		por supuesto tambien aprobar mi examen.
+
+
+	
+	
+
