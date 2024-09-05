@@ -112,12 +112,33 @@ Capitulos del libro (15)
 		Construir un plan de estudios ajustado a mis horarios.
 		Misntras mas consistente seas en tu estudio, 
 		estaras mejor perpadado para dar el examen.
-		Aunque sea un poquito a la hora de almuerzom, pero 
+		Aunque sea un poquito a la hora de almuerzo, pero 
 		todos los dias.
 
 -----------
 	Preguntarse por que lo estoy comprendiendo mal
 	Estudiar esas areas aun mas. 
+	
+-----------
+	Si UD puede determinar que el codigo compila, 
+	y que linea puede estar causando que no compile, 
+	responder la pregunta se puede transformar en facil.
+
+	Si todas las respuestas a las preguntas son valores
+	impresos, y no es una opcion compilar, entonces esa pregunta 
+	es un regalo. Entonces que cada linea compila y UD. puede 
+	utilizar la informacion de la pregunta para contestar.
+-----------
+	En muchos casos UD. tendra que ir eliminando respuestas
+	aun leyendo la pregunta.SI esto ocurre, considere un regalo y
+	no compile, si no que responda con la respuesta 
+	que quedo.
+	
+	---
+	Ir marcando las mas dificiles para responderlas despues.
+	
+	---
+	
 	
 
 	
