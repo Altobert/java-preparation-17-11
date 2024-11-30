@@ -152,6 +152,14 @@ java basico
 Que es una referencia? Es una variable que apunta un objeto.
 Ejemplo: Animal animal = new Animal();
 
+Que hace una clase?
+  tiene metodos y variables que son los miembros de la clase.
+  y los metodos modifican el estado de un objeto
+  una variable mantiene el estado de un programa, siempre y cuando
+   sea importante el cambio.
+
+
+
 	
 	
 
