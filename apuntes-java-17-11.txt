@@ -138,6 +138,20 @@ Capitulos del libro (15)
 	Ir marcando las mas dificiles para responderlas despues.
 	
 	---
+
+java basico
+ Clase: un bloque basico de contruccion en java
+ Como se usa una clase? mediante los objetos.
+ Que es un objeto?
+  Es una instancia de una clase en tiempo de ejecucion. 
+  Esta instancia utiliza memoria.
+
+*Todos los diferentes objetos de las clases representan
+ el estado en que se encuentra un programa.
+
+Que es una referencia? Es una variable que apunta un objeto.
+Ejemplo: Animal animal = new Animal();
+
 	
 	
 
