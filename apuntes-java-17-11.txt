@@ -158,6 +158,27 @@ Que hace una clase?
   una variable mantiene el estado de un programa, siempre y cuando
    sea importante el cambio.
 
+capitulo 1:
+construyendo bloques:
+Los objetivos OCP del examen cubiertos en este capitulo
+* manejo de fechas, tiempo, texto y valores booleanos (true o false)
+	** Uso de primitivos y clases envolventes incluyendo la APi Math
+           uso de parentesis, promocion de tipos y casting para evaluar
+	   aritmeticos y valores booleanos.
+* comprender el contexto de las variable, usar variables locales tipo inferencia,
+  aplicar encapsulacion y hacer objetos inmutables. 
+
+Partiremos del comienzo solo para asegurarnos que tendras toda la temrinologia.
+Como se dice, debemos caminar antes de correr, entonces deberemos saber lo basico de java
+para escribir programas mas complejos.
+
+EL examen espera que tu entiendas las reglas detras de los principios (nombre ara crear variables 3dMap or this)
+
+enviroment:
+	javac : compilador, transforma un .java en .class entendible para la maquina
+	java  : interprete que ejecuta el .class
+	jar   : empaqueta los archivos necesarios juntos (.class)
+	javadoc: generador de documentos.
 
 
 	
