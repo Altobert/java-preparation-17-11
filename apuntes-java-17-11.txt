@@ -139,25 +139,6 @@ Capitulos del libro (15)
 	
 	---
 
-java basico
- Clase: un bloque basico de contruccion en java
- Como se usa una clase? mediante los objetos.
- Que es un objeto?
-  Es una instancia de una clase en tiempo de ejecucion. 
-  Esta instancia utiliza memoria.
-
-*Todos los diferentes objetos de las clases representan
- el estado en que se encuentra un programa.
-
-Que es una referencia? Es una variable que apunta un objeto.
-Ejemplo: Animal animal = new Animal();
-
-Que hace una clase?
-  tiene metodos y variables que son los miembros de la clase.
-  y los metodos modifican el estado de un objeto
-  una variable mantiene el estado de un programa, siempre y cuando
-   sea importante el cambio.
-
 capitulo 1:
 construyendo bloques:
 Los objetivos OCP del examen cubiertos en este capitulo
@@ -179,6 +160,27 @@ enviroment:
 	java  : interprete que ejecuta el .class
 	jar   : empaqueta los archivos necesarios juntos (.class)
 	javadoc: generador de documentos.
+
+java basico
+ Clase: un bloque basico de contruccion en java
+ Como se usa una clase? mediante los objetos.
+ Que es un objeto?
+  Es una instancia de una clase en tiempo de ejecucion. 
+  Esta instancia utiliza memoria.
+
+*Todos los diferentes objetos de las clases representan
+ el estado en que se encuentra un programa.
+
+Que es una referencia? Es una variable que apunta un objeto.
+Ejemplo: Animal animal = new Animal();
+
+Que hace una clase?
+  tiene metodos y variables que son los miembros de la clase.
+  y los metodos modifican el estado de un objeto
+  una variable mantiene el estado de un programa, siempre y cuando
+   sea importante el cambio.
+
+
 
 
 	
