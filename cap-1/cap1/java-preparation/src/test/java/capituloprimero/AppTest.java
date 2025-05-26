@@ -1,4 +1,4 @@
-package cap1;
+package capituloprimero;
 
 import org.junit.jupiter.api.Test;
 

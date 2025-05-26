@@ -1,9 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.45.1">
-<file name="C:\Users\alberto.sanmartin\java-17-practica-certificacion\java-preparation-17-11\cap-1\cap1\java-preparation\src\main\java\cap1\App.java">
-<error line="1" column="9" severity="error" message="El nombre &apos;cap1&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
-</file>
-<file name="C:\Users\alberto.sanmartin\java-17-practica-certificacion\java-preparation-17-11\cap-1\cap1\java-preparation\src\test\java\cap1\AppTest.java">
-<error line="1" column="9" severity="error" message="El nombre &apos;cap1&apos; debe coincidir con el patrón &apos;^[a-z]+(\.[a-z][a-z0-9]*)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck"/>
-</file>
 </checkstyle>
