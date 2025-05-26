@@ -164,21 +164,40 @@ enviroment:
 java basico
  Clase: un bloque basico de contruccion en java
  Como se usa una clase? mediante los objetos.
+ Otros tipos de estructuras son los records, enum e interfaces.
+
  Que es un objeto?
   Es una instancia de una clase en tiempo de ejecucion. 
   Esta instancia utiliza memoria.
 
 *Todos los diferentes objetos de las clases representan
- el estado en que se encuentra un programa.
+ el estado en que se encuentra un programa.*
 
 Que es una referencia? Es una variable que apunta un objeto.
 Ejemplo: Animal animal = new Animal();
 
 Que hace una clase?
   tiene metodos y variables que son los miembros de la clase.
-  y los metodos modifican el estado de un objeto
+  y los metodos modifican el estado de un objet
   una variable mantiene el estado de un programa, siempre y cuando
    sea importante el cambio.
+
+Existen otros bloques de construccion como lo son los records, enum e interfaces.
+Las clases son para crear objetos y en un sistema eso hace que funcione todo.
+una referencia es una variable que apunta a un objeto.
+
+metodos = comunmende llamados funciones
+campos = variables, 
+Todos ellos en conjunto forman parte de los miembros de una clase.
+
+Las variables sostienen el estado de un programa y los metodos operan sobre
+esos estados. Si esl cambio es importante la variable almacena ese cambio.
+
+Una palabra con especial sentido en Java es llamada Keyboard. A traves del libro
+se paracaran en resaltado estos pedazos de codigocon el fin de llamar la atencion.
+
+
+
 
 
 
